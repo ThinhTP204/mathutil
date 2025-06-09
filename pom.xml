@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.thinhtp.tool</groupId>
+    <artifactId>mathutil</artifactId>
+    <version>83.86</version>
+
+    <properties>
+        <maven.compiler.source>18</maven.compiler.source>
+        <maven.compiler.target>18</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+
+
+<!-- DAY LA NOI KHAI BAO CAC THU VIEN MINH CAN DUNG, KHAI BAO THEO 1 CU PHAP CHO TRUOC, KO GO TU DO
+     NEU GO DUNG CU PHAP TEN THU VIEN, THI PHIA HAU TRUONG CUA INTELIJ/NETBEANS/ECLIPE CO 1 TOOL KHAC DAM NHAN
+     VIEC TAI THU VIEN TREN MANG VE MAY, ADD PROJECT DE TA SAN SANG XAI CLASS DO THU VIEN CUNG CAP
+     GIONG CO CHE HOAT DONG BEN C#, NODEJS/ REACT
+     JAVA: TOOL NAY LA MAVEN, CAU LENH LA MVN
+     NODE: TOOL NAY LA NODE PACKAGE MANAGEMENT, CAU LENH LA NPM
+     C#: TOOL NAY TEN LA NUGET...
+     -->
+<!--    mvnrepository.com-->
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter -->
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter</artifactId>
+            <version>5.13.0</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+
+</project>
