@@ -6,7 +6,7 @@
 * A Unit Testing script using JUnit Testing framework
 * A TDD, DDT script
 * A demonstration of using CI (continuous Integration) with Github Actio
-*...
+* ...
 
 ### Connect me via: tptvt.2002@gmail.com
 
